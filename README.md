@@ -1,4 +1,4 @@
 # Network-service-chat-room
-基于C++、QMake、MySQL的兼备网络聊天、文件互传功能的的通讯客户端。
+基于C++、Qt开发的即时通讯与文件共享系统。
 
-A communication client based on C++, QMake and MySQL, with the function of mutual transfer of network chat files.
+Instant messaging and file sharing system based on C++ and Qt.
